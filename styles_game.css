@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    /* background-color: black;  */
+}
+
+.container {
+    width: 320px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:black;
+    color: greenyellow;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgb(123, 240, 34);
+}
+#guessInput{
+   background-color: greenyellow;
+   border-radius: 4px;
+   /* border: 2px solid greenyellow; */
+   /* color: greenyellow; */
+}
+h1 {
+    margin-top: 0;
+}
+
+button {
+    margin-top: 10px;
+    
+    border-radius: 4px; 
+    color: greenyellow;
+    background-color: black;
+    border: 2px solid greenyellow;
+}
+
+#message {
+    color: greenyellow;
+    font-weight: bold;
+    margin-top: 20px;
+}
